@@ -1,0 +1,6 @@
+aiogram
+dash
+plotly
+pandas
+asyncio
+python-dotenv
